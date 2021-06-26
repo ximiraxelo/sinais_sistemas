@@ -35,4 +35,4 @@ Digite a função completa usando sempre a variável $t$
 
 $f(t) = u(t+1) - u(t-3) + g(t-3, 3) + 2 \times d(t-6)$ 
 
-![example](example.jpeg)
+![example](example.jpg)
